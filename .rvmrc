@@ -1,0 +1,2 @@
+rvm --create use 3.1.2@graupel
+rvm_autoinstall_bundler_flag=1
