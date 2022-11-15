@@ -1,2 +1,17 @@
 title: "Graupel Labs Home Page"
+author:
+  name: Graupel Labs, Inc.
+  email: contact@graupellabs.com
+
+minima:
+  skin: auto
+
+  social_links:
+    - { platform: github,   user_url: "https://github.com/GraupelLabs" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/GraupelLabs" }
+
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
