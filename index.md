@@ -2,9 +2,4 @@
 layout: home
 ---
 
-Welcome to My Home Page
-
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+> Graupel (`/ɡraʊpəl/`), also called soft hail, hominy snow, or snow pellets, is precipitation that forms when supercooled water droplets in air are collected and freeze on falling snowflakes, forming 2–5 mm (0.08–0.20 in) balls of crisp, opaque rime.
