@@ -12,7 +12,7 @@ minima:
 
   social_links:
     - { platform: github,   user_url: "https://github.com/GraupelLabs" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/GraupelLabs" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/company/graupel-labs" }
 
 remote_theme: jekyll/minima@1e6da7d
 
